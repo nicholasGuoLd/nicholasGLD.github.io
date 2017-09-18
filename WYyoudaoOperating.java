@@ -1,4 +1,4 @@
-//网易运维--有道--JAVA编程
+//This is a practice about NE Youdao Operating Interview
 
 import java.util.Scanner;
 import java.util.*;
